@@ -1,0 +1,19 @@
+h1{ 
+    text-align: center;
+    background-color: rebeccapurple;
+    color: blue;
+    margin: 4px;
+}
+body{
+  background-color: rgb(150, 176, 198);
+}
+h2{
+    color: rgb(173, 110, 26);
+}
+.pedir{
+    text-align: center;
+    color:rosybrown;
+}
+.aud{
+    text-align: center;
+}
